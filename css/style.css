@@ -1,0 +1,63 @@
+h1{
+    color: blueviolet;
+    background-color: aqua;
+    width: 128px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.meniu{
+    list-style: none;
+    color: bisque;
+    background-color: rgb(73, 33, 195);
+    display: flex;
+
+    
+}
+.name{
+
+   margin-left: auto;
+   margin-right: auto;
+   
+}
+body{
+background-color: rgb(242, 215, 184);
+
+}
+
+.meniu:hover{
+    background-color: blue;
+}
+img{
+    height: 300px;
+    width: 245px;
+}
+.textabout{
+    width: 420px;
+}
+.charakter{
+    list-style: none;
+    margin-top: 20px;
+    display: flex;
+    
+}
+.person{
+    padding-left: 70px;
+}
+h2{
+    text-align: center;
+    margin-top: 40px;
+}
+iframe{
+    margin-left: 190px;
+}
+
+.nindzyia{
+    list-style: none;
+    display: flex; 
+    margin-left: 150px;
+    margin-top: 30px;
+    
+}
+.ososba{
+    padding-left: 100px;
+}
